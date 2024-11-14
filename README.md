@@ -11,5 +11,5 @@ My repository
 3. dinuguan
 
 *My Hobbies*
-1.Online Games
-2.Basketball
+1. Online Games
+2. Basketball
